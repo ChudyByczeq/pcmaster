@@ -1,0 +1,156 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Montserrat';
+}
+
+.tabela {
+    width: 100%;
+}
+
+.wiersz1 {
+    height: 85px;
+    background-color: #101010;
+    margin-top: -1.6px;
+    margin-bottom: -3px;
+    color: white;
+    float: left;
+    width: 100%;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.kolumna1 {
+    width: 30%;
+    padding-top: 20px;
+    float: left;
+}
+
+.kolumna1 h1 {
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.kolumna1 h1 span {
+    font-weight: 800;
+}
+
+.kolumna2 {
+    width: 60%;
+    padding-left: 30%;
+}
+
+.nawigacja {
+    padding-top: 30px;
+    font-size: 16px;
+    list-style-type: none
+}
+
+.nawigacja a {
+    float: left;
+    padding-left: 35px;
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    text-decoration: none;
+}
+
+a:active {
+    color: white;
+    text-decoration: none;
+}
+
+.tekst {
+    font-size: 25px;
+    line-height: 40px;
+    width: 100%;
+}
+
+.wiersz2 {
+    height: 200px;
+    background-color: #18181a;
+    color: white;
+    float: left;
+    width: 100%;
+    margin-bottom: -1.6px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.kolumna6 {
+    width: 30%;
+    float: left;
+    margin: 0;
+}
+
+.kolumna6 h1 {
+    font-size: 32px;
+    font-weight: 400;
+    padding-top: 80px;
+}
+
+.kolumna6 h1 span {
+    font-weight: 800;
+}
+
+.kolumna7 {
+    width: 20%;
+    float: left;
+    padding-top: 80px;
+}
+
+.kolumna7 strong {
+    font-size: 20px;
+}
+
+.kolumna7 ul {
+    font-size: 16px;
+    list-style-type: none;
+    padding-top: 10px;
+}
+
+.kolumna8 {
+    width: 20%;
+    float: left;
+    padding-top: 80px;
+}
+
+.kolumna8 strong {
+    font-size: 20px;
+}
+
+.kolumna8 ul {
+    font-size: 16px;
+    list-style-type: none;
+    padding-top: 10px;
+}
+
+.kolumna9 {
+    width: 20%;
+    float: left;
+    padding-top: 80px;
+}
+
+.kolumna9 strong {
+    font-size: 20px;
+}
+
+.kolumna9 ul {
+    font-size: 16px;
+    list-style-type: none;
+    padding-top: 10px;
+}
