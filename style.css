@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Montserrat';
+}
+
+body table {
+    table-layout: fixed;
+    width: 100%;
+    border-spacing: 0;
+}
+
+.head {
+    width: 100%;
+    background-color: #101010;
+    color: white;
+    height: 75px;
+}
+
+.head td h1 {
+    width: 30%;
+    text-align: center;
+    float: left;
+    font-weight: 400;
+}
+
+.head td h1 span {
+    font-weight: 800;
+}
+
+.head td ul {
+    width: 70%;
+    float: left;
+    padding-top: 10px;
+    height: 100%;
+}
+
+.head td ul a {
+    float: left;
+    list-style-type: none;
+    height: 100%;
+    padding-left: 10%;
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #bbbbbb;
+    text-decoration: none;
+}
+
+a:active {
+    color: white;
+    text-decoration: none;
+}
+
+.main {
+    width: 100%;
+    height: auto;
+}
+
+.main td {
+    vertical-align: top;
+    font-size: 25px;
+    line-height: 40px;
+}
+
+.main td center font {
+    font-size: 50px;
+}
+
+.main td center p {
+    width: 50%;
+    text-align: left;
+}
+
+.stopka {
+    width: 100%;
+    background-color: #101010;
+    color: white;
+    height: 100px;
+}
+
+.stopka td h1 {
+    width: 30%;
+    text-align: center;
+    float: left;
+    font-weight: 400;
+}
+
+.stopka td h1 span {
+    font-weight: 800;
+}
